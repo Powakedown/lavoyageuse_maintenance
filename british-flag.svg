@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.6.1 (26313) - http://www.bohemiancoding.com/sketch -->
+    <title>british-flag</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="15" cy="15" r="15"></circle>
+        <path d="M30,15 L60,15 L60,30 L30,15 Z M30,15 L30,30 L0,30 L30,15 Z M30,15 L0,15 L0,0 L30,15 Z M30,15 L30,0 L60,0 L30,15 Z" id="path-3"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="british-flag">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#D8D8D8" xlink:href="#path-1"></use>
+            <g mask="url(#mask-2)">
+                <g transform="translate(-15.000000, 0.000000)">
+                    <path d="M0,0 L0,30 L60,30 L60,0 L0,0 Z" id="Shape" stroke="none" fill="#00247D"></path>
+                    <path d="M0,0 L60,30 M60,0 L0,30" id="Shape" stroke="#FFFFFF" stroke-width="6" fill="#000000"></path>
+                    <g id="Clipped" stroke="none" stroke-width="1" fill="none">
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <g id="Shape"></g>
+                        <path d="M0,0 L60,30 M60,0 L0,30" id="Shape" stroke="#CF142B" stroke-width="4" fill="#000000" mask="url(#mask-4)"></path>
+                    </g>
+                    <path d="M30,0 L30,30 M0,15 L60,15" id="Shape" stroke="#FFFFFF" stroke-width="10" fill="#000000"></path>
+                    <path d="M30,0 L30,30 M0,15 L60,15" id="Shape" stroke="#CF142B" stroke-width="6" fill="#000000"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
